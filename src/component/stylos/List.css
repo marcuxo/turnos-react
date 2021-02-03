@@ -1,0 +1,45 @@
+.lista {
+  border: 1px solid black;
+  border-radius: 4px;
+}
+.bb0 {
+  padding: 5px;
+  border-radius: 15px;
+}
+.bb1 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 15px;
+  text-align: center;
+}
+.bld {
+  border-left: 1px solid;
+  border-right: 1px solid;
+  border-radius: 4px;
+}
+.ps {
+  width: 10%;
+  left: auto;
+  right: auto;
+  position: relative;
+}
+.pt {
+  width: 10%;
+  left: auto;
+  right: auto;
+  position: relative;
+}
+.pd {
+  width: 11.4%;
+  left: auto;
+  right: auto;
+  position: relative;
+}
+
+
+.clibtn {
+  cursor: pointer;
+}
+.maestro {
+  padding: 20px;
+}
